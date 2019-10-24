@@ -1,4 +1,4 @@
 let firstname = "iftakhar"; 
 let lastname = "ahmed";
 
-console.log(f + l);
+console.log(firstname + lastname);
